@@ -1,8 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=185&section=header&color=0:050608,45:2b2f39,78:c99b77,100:b66f64&text=Arailym%20Azatkyzy&fontColor=f5e7d3&fontSize=42&fontAlignY=36&desc=AI%2FML%20Engineer%20%7C%20RAG%20%26%20Agents%20%7C%20Data%20Science&descSize=15&descAlignY=58" alt="Arailym Azatkyzy profile header" />
+# Arailym Azatkyzy
 
-### hi, i'm akira
+### AI/ML Engineer | RAG + Agents | Data Science
+
+hi, i'm akira
 
 `AI developer building practical ML systems, RAG pipelines, and agent workflows`
 
@@ -60,10 +62,18 @@ ML systems         model training, scoring logic, deduplication, analytics
 
 <div align="center">
 
-<img height="168" src="https://github-readme-stats.vercel.app/api?username=akiraxld&show_icons=true&theme=transparent&hide_border=true&title_color=f5e7d3&text_color=adbac7&icon_color=c99b77&include_all_commits=true" alt="akiraxld GitHub stats" />
-<img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akiraxld&layout=compact&theme=transparent&hide_border=true&title_color=f5e7d3&text_color=adbac7" alt="akiraxld top languages" />
+<img height="168" src="https://github-readme-stats.vercel.app/api?username=akiraxld&amp;show_icons=true&amp;theme=dark&amp;hide_border=true&amp;bg_color=050608&amp;title_color=f5e7d3&amp;text_color=adbac7&amp;icon_color=c99b77&amp;include_all_commits=true" alt="akiraxld GitHub stats" />
+<img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akiraxld&amp;layout=compact&amp;theme=dark&amp;hide_border=true&amp;bg_color=050608&amp;title_color=f5e7d3&amp;text_color=adbac7" alt="akiraxld top languages" />
 
-<img width="840" src="https://github-readme-activity-graph.vercel.app/graph?username=akiraxld&theme=react-dark&hide_border=true&bg_color=050608&color=adbac7&line=c99b77&point=b66f64" alt="akiraxld contribution graph" />
+<br />
+<br />
+
+<img width="840" src="https://streak-stats.demolab.com?user=akiraxld&amp;theme=dark&amp;hide_border=true&amp;background=050608&amp;ring=c99b77&amp;fire=b66f64&amp;currStreakLabel=c99b77&amp;sideNums=f5e7d3&amp;currStreakNum=f5e7d3&amp;dates=adbac7&amp;sideLabels=adbac7" alt="akiraxld GitHub streak, contribution count, and longest streak" />
+
+<br />
+<br />
+
+<img width="840" src="https://github-readme-activity-graph.vercel.app/graph?username=akiraxld&amp;theme=react-dark&amp;hide_border=true&amp;bg_color=050608&amp;color=adbac7&amp;line=c99b77&amp;point=b66f64" alt="akiraxld contribution graph" />
 
 </div>
 
