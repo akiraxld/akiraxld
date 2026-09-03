@@ -1,0 +1,20 @@
+<svg width="1080" height="270" viewBox="0 0 1080 270" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">akiraxld contribution streak</title>
+  <desc id="desc">Contribution card showing 200 plus total contributions, current streak, and longest streak.</desc>
+  <rect width="1080" height="270" rx="12" fill="#050608"/>
+  <rect x="1" y="1" width="1078" height="268" rx="12" stroke="#2b2f39" stroke-width="2"/>
+  <line x1="360" y1="58" x2="360" y2="214" stroke="#536077" stroke-width="2"/>
+  <line x1="720" y1="58" x2="720" y2="214" stroke="#536077" stroke-width="2"/>
+  <g font-family="Segoe UI, Inter, Arial, sans-serif">
+    <text x="180" y="110" text-anchor="middle" fill="#f5e7d3" font-size="58" font-weight="800">200+</text>
+    <text x="180" y="156" text-anchor="middle" fill="#adbac7" font-size="28">Total Contributions</text>
+    <text x="180" y="198" text-anchor="middle" fill="#8aa0b8" font-size="18">all time</text>
+    <circle cx="540" cy="110" r="60" stroke="#c99b77" stroke-width="12"/>
+    <path d="M540 48C558 65 564 79 560 96C554 119 526 120 520 100C516 86 524 75 540 63C536 77 544 88 553 82C559 78 555 63 540 48Z" fill="#b66f64"/>
+    <text x="540" y="130" text-anchor="middle" fill="#f5e7d3" font-size="58" font-weight="800">1</text>
+    <text x="540" y="204" text-anchor="middle" fill="#c99b77" font-size="28" font-weight="700">Current Streak</text>
+    <text x="900" y="110" text-anchor="middle" fill="#f5e7d3" font-size="58" font-weight="800">3</text>
+    <text x="900" y="156" text-anchor="middle" fill="#adbac7" font-size="28">Longest Streak</text>
+    <text x="900" y="198" text-anchor="middle" fill="#8aa0b8" font-size="18">public snapshot</text>
+  </g>
+</svg>

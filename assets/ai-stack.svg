@@ -1,0 +1,20 @@
+<svg width="520" height="230" viewBox="0 0 520 230" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">akiraxld AI stack</title>
+  <desc id="desc">AI development stack card.</desc>
+  <rect x="1" y="1" width="518" height="228" rx="12" fill="#050608" stroke="#2b2f39" stroke-width="2"/>
+  <text x="30" y="47" fill="#f5e7d3" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="25" font-weight="800">AI Stack</text>
+  <g font-family="Consolas, Menlo, monospace" font-size="15">
+    <text x="38" y="88" fill="#f5e7d3">Python</text>
+    <rect x="146" y="76" width="302" height="16" rx="8" fill="#151922"/>
+    <rect x="146" y="76" width="272" height="16" rx="8" fill="#c99b77"/>
+    <text x="38" y="120" fill="#f5e7d3">RAG</text>
+    <rect x="146" y="108" width="302" height="16" rx="8" fill="#151922"/>
+    <rect x="146" y="108" width="258" height="16" rx="8" fill="#b66f64"/>
+    <text x="38" y="152" fill="#f5e7d3">NLP</text>
+    <rect x="146" y="140" width="302" height="16" rx="8" fill="#151922"/>
+    <rect x="146" y="140" width="232" height="16" rx="8" fill="#8aa0b8"/>
+    <text x="38" y="184" fill="#f5e7d3">Data</text>
+    <rect x="146" y="172" width="302" height="16" rx="8" fill="#151922"/>
+    <rect x="146" y="172" width="244" height="16" rx="8" fill="#d8c6b4"/>
+  </g>
+</svg>

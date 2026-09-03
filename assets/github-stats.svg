@@ -1,0 +1,18 @@
+<svg width="520" height="230" viewBox="0 0 520 230" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">akiraxld GitHub stats</title>
+  <desc id="desc">Static GitHub profile stats card with warm dark colors.</desc>
+  <rect x="1" y="1" width="518" height="228" rx="12" fill="#050608" stroke="#2b2f39" stroke-width="2"/>
+  <text x="30" y="47" fill="#f5e7d3" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="25" font-weight="800">GitHub Stats</text>
+  <text x="30" y="82" fill="#adbac7" font-family="Consolas, Menlo, monospace" font-size="14">public profile snapshot</text>
+  <g font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" font-weight="700">
+    <text x="54" y="126" fill="#c99b77">200+</text>
+    <text x="150" y="126" fill="#adbac7">all-time contributions</text>
+    <text x="54" y="161" fill="#b66f64">AI/ML</text>
+    <text x="150" y="161" fill="#adbac7">engineer focus</text>
+    <text x="54" y="196" fill="#8aa0b8">RAG</text>
+    <text x="150" y="196" fill="#adbac7">agents, NLP, vector search</text>
+  </g>
+  <circle cx="412" cy="128" r="56" stroke="#c99b77" stroke-width="10"/>
+  <circle cx="412" cy="128" r="38" fill="#0d1117"/>
+  <text x="412" y="138" text-anchor="middle" fill="#f5e7d3" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="28" font-weight="800">AI</text>
+</svg>

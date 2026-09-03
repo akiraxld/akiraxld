@@ -1,0 +1,63 @@
+<svg width="1080" height="210" viewBox="0 0 1080 210" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">akiraxld activity graph</title>
+  <desc id="desc">Decorative contribution activity graph in dark warm colors.</desc>
+  <rect x="1" y="1" width="1078" height="208" rx="12" fill="#050608" stroke="#2b2f39" stroke-width="2"/>
+  <text x="34" y="46" fill="#f5e7d3" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="25" font-weight="800">Contribution Activity</text>
+  <text x="34" y="76" fill="#adbac7" font-family="Consolas, Menlo, monospace" font-size="14">dark warm profile map</text>
+  <g transform="translate(34 102)">
+    <rect x="0" y="0" width="14" height="14" rx="3" fill="#151922"/>
+    <rect x="18" y="0" width="14" height="14" rx="3" fill="#2b2f39"/>
+    <rect x="36" y="0" width="14" height="14" rx="3" fill="#c99b77"/>
+    <rect x="54" y="0" width="14" height="14" rx="3" fill="#151922"/>
+    <rect x="72" y="0" width="14" height="14" rx="3" fill="#b66f64"/>
+    <rect x="90" y="0" width="14" height="14" rx="3" fill="#2b2f39"/>
+    <rect x="108" y="0" width="14" height="14" rx="3" fill="#c99b77"/>
+    <rect x="126" y="0" width="14" height="14" rx="3" fill="#8aa0b8"/>
+    <rect x="144" y="0" width="14" height="14" rx="3" fill="#151922"/>
+    <rect x="162" y="0" width="14" height="14" rx="3" fill="#c99b77"/>
+    <rect x="180" y="0" width="14" height="14" rx="3" fill="#b66f64"/>
+    <rect x="198" y="0" width="14" height="14" rx="3" fill="#151922"/>
+    <rect x="216" y="0" width="14" height="14" rx="3" fill="#2b2f39"/>
+    <rect x="234" y="0" width="14" height="14" rx="3" fill="#c99b77"/>
+    <rect x="252" y="0" width="14" height="14" rx="3" fill="#151922"/>
+    <rect x="270" y="0" width="14" height="14" rx="3" fill="#8aa0b8"/>
+    <rect x="288" y="0" width="14" height="14" rx="3" fill="#b66f64"/>
+    <rect x="306" y="0" width="14" height="14" rx="3" fill="#151922"/>
+    <rect x="324" y="0" width="14" height="14" rx="3" fill="#c99b77"/>
+    <rect x="342" y="0" width="14" height="14" rx="3" fill="#2b2f39"/>
+    <rect x="360" y="0" width="14" height="14" rx="3" fill="#c99b77"/>
+    <rect x="378" y="0" width="14" height="14" rx="3" fill="#151922"/>
+    <rect x="396" y="0" width="14" height="14" rx="3" fill="#b66f64"/>
+    <rect x="414" y="0" width="14" height="14" rx="3" fill="#8aa0b8"/>
+    <rect x="432" y="0" width="14" height="14" rx="3" fill="#151922"/>
+    <rect x="450" y="0" width="14" height="14" rx="3" fill="#c99b77"/>
+    <rect x="468" y="0" width="14" height="14" rx="3" fill="#2b2f39"/>
+    <rect x="486" y="0" width="14" height="14" rx="3" fill="#b66f64"/>
+    <rect x="504" y="0" width="14" height="14" rx="3" fill="#c99b77"/>
+    <rect x="522" y="0" width="14" height="14" rx="3" fill="#151922"/>
+    <rect x="540" y="0" width="14" height="14" rx="3" fill="#8aa0b8"/>
+    <rect x="558" y="0" width="14" height="14" rx="3" fill="#c99b77"/>
+    <rect x="576" y="0" width="14" height="14" rx="3" fill="#151922"/>
+    <rect x="594" y="0" width="14" height="14" rx="3" fill="#2b2f39"/>
+    <rect x="612" y="0" width="14" height="14" rx="3" fill="#b66f64"/>
+    <rect x="630" y="0" width="14" height="14" rx="3" fill="#c99b77"/>
+    <rect x="648" y="0" width="14" height="14" rx="3" fill="#151922"/>
+    <rect x="666" y="0" width="14" height="14" rx="3" fill="#8aa0b8"/>
+    <rect x="684" y="0" width="14" height="14" rx="3" fill="#2b2f39"/>
+    <rect x="702" y="0" width="14" height="14" rx="3" fill="#c99b77"/>
+    <rect x="720" y="0" width="14" height="14" rx="3" fill="#151922"/>
+    <rect x="738" y="0" width="14" height="14" rx="3" fill="#b66f64"/>
+    <rect x="756" y="0" width="14" height="14" rx="3" fill="#c99b77"/>
+    <rect x="774" y="0" width="14" height="14" rx="3" fill="#2b2f39"/>
+    <rect x="792" y="0" width="14" height="14" rx="3" fill="#8aa0b8"/>
+    <rect x="810" y="0" width="14" height="14" rx="3" fill="#151922"/>
+    <rect x="828" y="0" width="14" height="14" rx="3" fill="#c99b77"/>
+    <rect x="846" y="0" width="14" height="14" rx="3" fill="#b66f64"/>
+    <rect x="864" y="0" width="14" height="14" rx="3" fill="#151922"/>
+    <rect x="882" y="0" width="14" height="14" rx="3" fill="#2b2f39"/>
+    <rect x="900" y="0" width="14" height="14" rx="3" fill="#c99b77"/>
+    <rect x="918" y="0" width="14" height="14" rx="3" fill="#8aa0b8"/>
+    <rect x="936" y="0" width="14" height="14" rx="3" fill="#b66f64"/>
+  </g>
+  <text x="34" y="172" fill="#adbac7" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="17">public + private contributions can be shown on GitHub's built-in graph when profile settings allow it</text>
+</svg>
