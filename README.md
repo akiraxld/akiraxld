@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&color=0:000000,45:0d1117,100:238636&text=akiraxld&fontColor=f0f6fc&fontSize=54&fontAlignY=37&desc=code%20%7C%20systems%20%7C%20quiet%20black%20style&descSize=16&descAlignY=58" alt="akiraxld profile header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=185&section=header&color=0:050608,45:2b2f39,78:c99b77,100:b66f64&text=Arailym%20Azatkyzy&fontColor=f5e7d3&fontSize=42&fontAlignY=36&desc=AI%2FML%20Engineer%20%7C%20RAG%20%26%20Agents%20%7C%20Data%20Science&descSize=15&descAlignY=58" alt="Arailym Azatkyzy profile header" />
 
 ### hi, i'm akira
 
-`building, learning, shipping`
+`AI developer building practical ML systems, RAG pipelines, and agent workflows`
 
-[![Profile views](https://komarev.com/ghpvc/?username=akiraxld&style=flat-square&color=238636&label=views)](https://github.com/akiraxld)
-[![GitHub followers](https://img.shields.io/github/followers/akiraxld?style=flat-square&label=followers&color=238636&labelColor=0d1117)](https://github.com/akiraxld?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/akiraxld?style=flat-square&label=stars&color=238636&labelColor=0d1117)](https://github.com/akiraxld?tab=repositories)
+[![Profile views](https://komarev.com/ghpvc/?username=akiraxld&style=flat-square&color=b66f64&label=views)](https://github.com/akiraxld)
+[![GitHub followers](https://img.shields.io/github/followers/akiraxld?style=flat-square&label=followers&color=c99b77&labelColor=050608)](https://github.com/akiraxld?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arailym%20Azatkyzy-536077?style=flat-square&labelColor=050608)](https://www.linkedin.com/in/arailym-azatkyzy-5866643ab)
 
 </div>
 
@@ -16,48 +16,61 @@
 
 ## About
 
-I like clean code, useful tools, and simple interfaces that feel fast.
+I am an AI/ML Engineer and Data Science student focused on building useful AI systems from messy real-world data.
 
-- Working on personal projects and sharpening my engineering fundamentals
-- Interested in backend systems, automation, and practical developer tools
-- Keeping this profile focused, readable, and work-friendly
+- AI/ML Engineer at **Sergek Security**, working on ML, RAG, and internal AI agent products
+- Building document ingestion pipelines for PDF, DOCX, and PPTX with chunking, embeddings, retrieval, and source citations
+- Developing AI modules for recruitment, legal document analysis, and tutor platforms
+- Studying **Data Science at Suleyman Demirel University**, expected graduation May 2027
+
+## AI Focus
+
+```txt
+RAG systems        document ingestion, chunking, embeddings, vector search
+AI agents          tool-calling, intent routing, workflow design
+NLP                text parsing, summarization, classification, clustering
+ML systems         model training, scoring logic, deduplication, analytics
+```
 
 ## Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=5FA04E" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/Python-050608?style=for-the-badge&logo=python&logoColor=c99b77" alt="Python" />
+  <img src="https://img.shields.io/badge/R-050608?style=for-the-badge&logo=r&logoColor=8aa0b8" alt="R" />
+  <img src="https://img.shields.io/badge/SQL-050608?style=for-the-badge&logo=postgresql&logoColor=b66f64" alt="SQL" />
+  <img src="https://img.shields.io/badge/PyTorch-050608?style=for-the-badge&logo=pytorch&logoColor=b66f64" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-050608?style=for-the-badge&logo=scikitlearn&logoColor=c99b77" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Pandas-050608?style=for-the-badge&logo=pandas&logoColor=f5e7d3" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-050608?style=for-the-badge&logo=numpy&logoColor=8aa0b8" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Streamlit-050608?style=for-the-badge&logo=streamlit&logoColor=b66f64" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Power%20BI-050608?style=for-the-badge&logo=powerbi&logoColor=c99b77" alt="Power BI" />
+  <img src="https://img.shields.io/badge/GitHub-050608?style=for-the-badge&logo=github&logoColor=f5e7d3" alt="GitHub" />
 </p>
 
-## Stats
+## Projects
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| **Reddit Thread Intelligence** | Analyzes Reddit discussions with aspect-based sentiment analysis, topic clustering, and a custom polarization metric | Python, Pandas, scikit-learn, Streamlit, Plotly, NLTK, TextBlob |
+| **Znak** | Real-time ASL recognition and learning platform with live browser feedback and gamified practice modules | Python, MediaPipe, scikit-learn, Streamlit, WebRTC |
+| **IT Labor Market Analytics** | Interactive dashboard for Kazakhstan's IT and digital labor market using survey data from 1,111+ professionals | Power BI, data modeling, data visualization |
+| **Film Industry DBMS** | Normalized Oracle APEX database with 20 tables, 100,000+ records, PL/SQL packages, triggers, and bulk operations | PL/SQL, Oracle APEX, Mockaroo |
+
+## GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=akiraxld&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=f0f6fc&text_color=8b949e&icon_color=238636&include_all_commits=true" alt="akiraxld GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akiraxld&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=f0f6fc&text_color=8b949e" alt="akiraxld top languages" />
+<img height="168" src="https://github-readme-stats.vercel.app/api?username=akiraxld&show_icons=true&theme=transparent&hide_border=true&title_color=f5e7d3&text_color=adbac7&icon_color=c99b77&include_all_commits=true" alt="akiraxld GitHub stats" />
+<img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akiraxld&layout=compact&theme=transparent&hide_border=true&title_color=f5e7d3&text_color=adbac7" alt="akiraxld top languages" />
 
-<img width="840" src="https://streak-stats.demolab.com?user=akiraxld&theme=github-dark-blue&hide_border=true&background=00000000&ring=238636&fire=238636&currStreakLabel=f0f6fc" alt="akiraxld GitHub streak" />
-
-<img width="840" src="https://github-readme-activity-graph.vercel.app/graph?username=akiraxld&theme=github-compact&hide_border=true&bg_color=00000000&color=8b949e&line=238636&point=f0f6fc" alt="akiraxld contribution graph" />
+<img width="840" src="https://github-readme-activity-graph.vercel.app/graph?username=akiraxld&theme=react-dark&hide_border=true&bg_color=050608&color=adbac7&line=c99b77&point=b66f64" alt="akiraxld contribution graph" />
 
 </div>
-
-## Focus
-
-```txt
-style      dark, minimal, readable
-goal       become sharper every week
-principle  build things that actually work
-```
 
 ---
 
 <div align="center">
 
-<sub>Thanks for visiting. Keep it simple, keep it useful.</sub>
+<sub>AI, data, and systems that stay useful after the demo.</sub>
 
 </div>
